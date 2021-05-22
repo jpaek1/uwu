@@ -1,0 +1,23 @@
+{
+  "name": "uwu",
+  "version": "1.0.0",
+  "description": "lose your fwiends\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[w\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[w\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpaek1/uwu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpaek1/uwu/issues"
+  },
+  "homepage": "https://github.com/jpaek1/uwu#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.7"
+  }
+}
